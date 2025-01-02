@@ -1,2 +1,2 @@
 # first-repo
-Seth's a good student
+Files on github (remotely) change
